@@ -1,1 +1,1 @@
-# 8-Queen-Problem
+# n-Queen-Problem
